@@ -16,5 +16,6 @@
 
 ## How to run the tests
 - Make sure you are in the project folder
-- Run the tests with the command `python -m unittest discover -s tests
+- Run the tests with the command `python -m unittest discover -s tests`
+
 
